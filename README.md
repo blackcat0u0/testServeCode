@@ -31,8 +31,8 @@ $ npm stop
 
 ### git hooks工具
 
-- see [github husky][husky] for more detail.
+- see [github husky@4.3.0][husky] for more detail.
 
 
 [egg]: https://eggjs.org
-[husky]:https://github.com/typicode/husky
+[husky]:https://github.com/typicode/husky/tree/master
