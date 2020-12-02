@@ -29,5 +29,10 @@ $ npm stop
 - Use `npm test` to run unit test.
 - Use `npm run autod` to auto detect dependencies upgrade, see [autod](https://www.npmjs.com/package/autod) for more detail.
 
+### git hooks工具
+
+- see [github husky][husky] for more detail.
+
 
 [egg]: https://eggjs.org
+[husky]:https://github.com/typicode/husky
