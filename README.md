@@ -35,8 +35,11 @@ $ npm stop
 - see [github commitizen][commitizen] for more detail.
 - see [github validate-commit-msg][validate-commit-msg] for more detail.
 
+## 验证码生成
+- see [svg-captcha][svg-captcha] for more detail.
 
 [egg]: https://eggjs.org
 [husky]:https://github.com/typicode/husky/tree/master
 [commitizen]:https://github.com/commitizen/cz-cli
 [validate-commit-msg]:https://github.com/conventional-changelog-archived-repos/validate-commit-msg
+[svg-captcha]:https://github.com/produck/svg-captcha
